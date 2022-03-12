@@ -1,4 +1,4 @@
-#Hi, I’m Kent
+# Hi, I’m Kent
 
 I’m currently learning computer science
 
