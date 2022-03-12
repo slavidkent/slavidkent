@@ -1,9 +1,9 @@
-<h1>👋 Hi, I’m Kent </h1>
-<p>I’m currently learning computer science</p>
-<ul>
-  <li>Html</li>
-  <li>Css</li>
-  <li>JavaScript</li>
-  <li>C</li>
-  <li>python</li>
-</ul>
+#Hi, I’m Kent
+
+I’m currently learning computer science
+
+- Html / Css
+- JavaScript
+- python
+- SQL
+- C 
